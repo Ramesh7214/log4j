@@ -1,0 +1,4 @@
+0 05:26:17 03-25-44 [main] – This is info message 
+0 05:26:17 03-25-44 [main] – This is warn message 
+0 05:26:17 03-25-44 [main] – This is fatal message 
+0 05:26:17 03-25-44 [main] – This is error message 
